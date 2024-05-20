@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ketphan02/macOS-auto-backup-to-Discord-fe.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ketphan02/macOS-auto-backup-to-Discord-be.git
